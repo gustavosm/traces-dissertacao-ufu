@@ -1,0 +1,8 @@
+30mbit testado com seleção (1s) infra-normal -> 16.18%
+10mbit testado com seleção (1s) infra-normal -> 30.25%
+
+30mbit testado com seleção 10mbit -> 15.98%
+infra-normal testado com 10mbit -> 18.71%
+
+10mbit testado com seleção 30mbit -> 31.25%
+infra-normal com seleção 30mbit -> 18.86%
